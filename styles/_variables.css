@@ -1,0 +1,8 @@
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+    --grey-dark: #252525;
+    --grey-dark-transparency: #252525 80%;
+    --font-regular: 400;
+    --font-bold: 700;
+}
